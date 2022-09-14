@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rikuk
+ *
+ */
+module tasks {
+}
