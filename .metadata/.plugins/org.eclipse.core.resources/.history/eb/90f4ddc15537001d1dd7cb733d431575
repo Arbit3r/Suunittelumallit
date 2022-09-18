@@ -1,0 +1,10 @@
+package tasks;
+
+public class HatAdidas implements Hat {
+	
+	@Override
+	String toString(){
+		
+	}
+
+}

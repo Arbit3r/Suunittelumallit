@@ -1,0 +1,10 @@
+package tasks;
+
+public class Jasper {
+	
+	private Hat hat;
+	private Tshirt tshirt;
+	private Pants pants;
+	private Shoes shoes;
+
+}

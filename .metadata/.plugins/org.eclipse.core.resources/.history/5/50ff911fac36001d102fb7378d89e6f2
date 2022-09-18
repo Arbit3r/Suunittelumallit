@@ -1,0 +1,8 @@
+package tasks;
+
+public interface Hat {
+	
+	@Override
+	public abstract String toString();
+
+}

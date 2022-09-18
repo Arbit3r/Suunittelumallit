@@ -1,0 +1,18 @@
+package tasks;
+
+public class Jasper {
+	
+	public Hat wearHat() {
+		return null;
+	}
+	public Tshirt weartShirt() {
+		return null;
+	}
+	public Pants wearPants() {
+		return null;
+	}
+	public Shoes wearShoes() {
+		return null;
+	}
+
+}

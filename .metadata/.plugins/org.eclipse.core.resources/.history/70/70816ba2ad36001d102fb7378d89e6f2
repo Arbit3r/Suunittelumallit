@@ -1,0 +1,10 @@
+package tasks;
+
+public interface VaateTehdas {
+	
+	public abstract Hat wearHat();
+	public abstract Tshirt weartShirt();
+	public abstract Pants wearPants();
+	public abstract Shoes wearShoes();
+
+}
