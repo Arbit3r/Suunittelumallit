@@ -1,7 +1,0 @@
-package tasks;
-
-public interface Tshirt {
-	
-	public abstract String toString();
-
-}

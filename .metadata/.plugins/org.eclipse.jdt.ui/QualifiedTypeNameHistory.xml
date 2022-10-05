@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="tasks.HatAdidas"/>
+    <fullyQualifiedTypeName name="adidas.Adidas"/>
+    <fullyQualifiedTypeName name="tasks.Hat"/>
+    <fullyQualifiedTypeName name="tasks.Pants"/>
+    <fullyQualifiedTypeName name="tasks.Shoes"/>
+    <fullyQualifiedTypeName name="tasks.Tshirt"/>
+    <fullyQualifiedTypeName name="tasks.Factory"/>
+    <fullyQualifiedTypeName name="boss.BossFactory"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Observer"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+</qualifiedTypeNameHistroy>
